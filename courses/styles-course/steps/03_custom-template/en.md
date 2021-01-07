@@ -126,5 +126,5 @@ Let's create a page containing information about your store, as in the example b
      }
    }
    ```
-
-8. Once the code is linked, access `{workspace}--appliancetheme.myvtex.com/about-us` to see your new landing page.
+8. Unlink code with `vtex unlink`, then run `vtex link` for update all files.
+9. Once the code is linked, access `{workspace}--appliancetheme.myvtex.com/about-us` to see your new landing page.
